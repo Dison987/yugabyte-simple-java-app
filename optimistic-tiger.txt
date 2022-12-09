@@ -1,0 +1,5 @@
+Cluster: optimistic-tiger
+YSQL Username: admin
+YSQL Password: 123Hi123
+YCQL Username: admin
+YCQL Password: 123Hi123
