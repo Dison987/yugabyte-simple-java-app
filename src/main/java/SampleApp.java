@@ -90,7 +90,7 @@ public class SampleApp {
     private static void selectAccounts(Connection conn) throws SQLException {
         Statement stmt = conn.createStatement();
 
-        System.out.println(">>>> Selecting accounts:");
+        System.out.println(">>>> Selected accounts:");
 
         ResultSet rs = stmt.executeQuery("SELECT * FROM " + TABLE_NAME);
 
